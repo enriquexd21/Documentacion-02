@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkproyecto_02=self.webpackChunkproyecto_02||[]).push([[241],{5393:o=>{o.exports=JSON.parse('{"allTagsPath":"/Documentacion-02/blog/tags","slug":"/Documentacion-02/blog/tags/hola","name":"hola","count":1,"permalink":"/Documentacion-02/blog/tags/hola"}')}}]);
